@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Winda- TC - post login successful
+Description: flow testcase login API</description>
+   <name>AP-2 Winda- TC - post login successful</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0001j:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar2.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;AP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;API Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Winda- TC - post login successful&quot;,&quot;description&quot;:&quot;flow testcase login API&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;windaa.1990@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Winda winda&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d5f1804ad1084620015f50b6c&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;windaa.1990@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Winda winda&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d5f1804ad1084620015f50b6c&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/AP-2/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/10008&quot;,&quot;key&quot;:&quot;AP-2&quot;,&quot;id&quot;:10008}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>9d5759ee-1ba2-4259-b968-5c11087772e3</testCaseGuid>
+</TestCaseEntity>

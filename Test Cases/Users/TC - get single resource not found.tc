@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - get single resource not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>910b64a7-ba87-49f7-84d4-41e3f9bb0179</testCaseGuid>
+</TestCaseEntity>
