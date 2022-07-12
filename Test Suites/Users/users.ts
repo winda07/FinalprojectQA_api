@@ -64,7 +64,7 @@
       <guid>6115ea3a-218d-432a-8c48-238233675af6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Users/TC - login unsuccessful</testCaseId>
+      <testCaseId>Test Cases/Users/TC - post login unsuccessful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - login unsuccessful</name>
+   <name>TC - post login unsuccessful</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1ac72539-7fd1-414d-9f35-e03d4c15f2b7</testCaseGuid>
